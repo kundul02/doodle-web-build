@@ -1,6 +1,6 @@
 // ProtoBuild.WebGL() rewrites this line with a per-build stamp after the build finishes —
 // a new name every deploy is what makes "activate" below drop the previous build's cache.
-const CACHE_NAME = "doodle-cache-20260924075857";
+const CACHE_NAME = "doodle-cache-20260926182546";
 
 self.addEventListener("install", (event) => {
   self.skipWaiting();
